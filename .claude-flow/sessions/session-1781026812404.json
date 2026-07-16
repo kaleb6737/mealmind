@@ -1,0 +1,15 @@
+{
+  "id": "session-1781026812404",
+  "startedAt": "2026-06-09T17:40:12.404Z",
+  "platform": "darwin",
+  "cwd": "/Users/hacked_dinho/Desktop/Projects/mealmind",
+  "context": {},
+  "metrics": {
+    "edits": 51,
+    "commands": 0,
+    "tasks": 0,
+    "errors": 0
+  },
+  "endedAt": "2026-06-09T18:31:01.352Z",
+  "duration": 3048949
+}
